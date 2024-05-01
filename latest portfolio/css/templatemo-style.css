@@ -447,7 +447,8 @@ a:hover, a:active, a:focus {
 }
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  background: url('../images/me.jpg') no-repeat;
+
 }
 
 #experience .media-heading {
@@ -733,16 +734,31 @@ footer {
   width: 100%;
   height:100%;
 }
+.row {
+  display: flex;
+}
+.row-reversed {
+display: flex;
+flex-direction: row-reverse; /* Reverse order */
+}
+
+
 
 .row-video {
     display: flex;
     height: 50vh;
 }
-.row-reversed {
+.row-video-reversed {
   display: flex;
+  height: 50vh;
   flex-direction: row-reverse; /* Reverse order */
 }
 
+
+.row-pdf {
+  display: flex;
+  height: 100vh;
+}
 .row-pdf-reversed {
   display: flex;
   flex-direction: row-reverse; /* Reverse order */
@@ -763,9 +779,4 @@ footer {
 .custom-pdf-container iframe {
   width: 100%;
   height:100%;
-}
-
-.row-pdf {
-  display: flex;
-  height: 50vh;
 }
