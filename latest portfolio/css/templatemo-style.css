@@ -757,7 +757,7 @@ flex-direction: row-reverse; /* Reverse order */
 
 .row-pdf {
   display: flex;
-  height: 100vh;
+  height: 70vh;
 }
 .row-pdf-reversed {
   display: flex;
