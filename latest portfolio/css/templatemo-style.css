@@ -70,7 +70,7 @@ strong {
 }
 
 p {
-    color: #888;
+    color: #2a2a2a;
     font-size: 16px;
     font-weight: 300;
     line-height: 28px;
@@ -463,6 +463,8 @@ a:hover, a:active, a:focus {
 
 #education {
   background: #E3AE57;
+  /* background: #E3AE57; */
+
 }
 
 #education .education-img {
