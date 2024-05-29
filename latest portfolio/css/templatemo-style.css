@@ -383,7 +383,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-  background: url('../images/syfc-3.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/syfc-2.jpg') 50% 0 no-repeat;
 }
 
 #about .about-thumb,
@@ -440,7 +440,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/Screenshot 2024-04-02 at 2.38.55 PM.png') no-repeat;
+  background: url('../images/syfc-3.jpg') no-repeat;
 }
 
 #experience .media-heading {
