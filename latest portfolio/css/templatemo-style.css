@@ -461,6 +461,9 @@ a:hover, a:active, a:focus {
 #education  .syfcleader-img {
   background: url('../images/syfcleader.001.jpeg') no-repeat;
 }
+#education  .scholarship-img {
+  background: url('../images/scholarship.001.jpeg') no-repeat;
+}
 #experience .media-heading {
   margin-bottom: 0px;
 }
