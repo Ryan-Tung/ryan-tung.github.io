@@ -443,6 +443,12 @@ a:hover, a:active, a:focus {
   background: url('../images/syfc-3.jpg') no-repeat;
 }
 
+#experience .cdcmerit-img {
+  background: url('../images/cdcmerit.jpeg') no-repeat;
+}
+#experience .syfcleader-img {
+  background: url('../images/syfcleader.001.jpeg') no-repeat;
+}
 #experience .media-heading {
   margin-bottom: 0px;
 }
