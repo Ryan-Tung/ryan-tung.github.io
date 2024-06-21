@@ -466,6 +466,9 @@ a:hover, a:active, a:focus {
 #experience .nyaa-img {
   background: url('../images/images.050.jpeg') no-repeat;
 }
+#education  .sstdemoteam-img {
+  background: url('../images/images.063.jpeg') no-repeat;
+}
 /* academics */
 #experience  .cdcmerit-img {
   background: url('../images/images.003.jpeg') no-repeat;
@@ -611,6 +614,29 @@ a:hover, a:active, a:focus {
 #experience  .hsi-img {
   background: url('../images/images.047.jpeg') no-repeat;
 }
+
+
+#education  .hum1-img {
+  background: url('../images/images.042.jpeg') no-repeat;
+}
+#experience  .hum2-img {
+  background: url('../images/images.043.jpeg') no-repeat;
+}
+#education  .hum3-img {
+  background: url('../images/images.044.jpeg') no-repeat;
+}#experience  .hum4-img {
+  background: url('../images/images.045.jpeg') no-repeat;
+}
+#education  .eng1-img {
+  background: url('../images/images.046.jpeg') no-repeat;
+}
+#experience  .eng2-img {
+  background: url('../images/images.047.jpeg') no-repeat;
+}
+#education  .eng3-img {
+  background: url('../images/images.046.jpeg') no-repeat;
+}
+
 
 /* service learning */
 #experience  .maris-img {
