@@ -595,7 +595,9 @@ a:hover, a:active, a:focus {
 #education .capstone-img {
   background: url('../images/images.040.jpeg') no-repeat;
 }
-
+#experience .techno-img {
+  background: url('../images/images.064.jpeg') no-repeat;
+}
 
 /* Other */
 #experience  .ADMT-img {
