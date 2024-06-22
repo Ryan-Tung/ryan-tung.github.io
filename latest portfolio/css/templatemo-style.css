@@ -180,6 +180,10 @@ footer {
   color: #8b5e15;
 }
 
+.center {
+  text-align: center;
+}
+
 .bg-yellow {
   background: #E3AE57;
 }
