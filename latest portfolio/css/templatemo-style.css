@@ -461,92 +461,165 @@ a:hover, a:active, a:focus {
 
 /* work */
 /* leader */
-#experience .vicechair-img {
-  background: url('../images/images.001.jpeg') no-repeat;
+#education .erudites-img {
+  background: url('../images/images.202.jpeg') no-repeat;
 }
-#education  .syfcleader-img {
+
+#experience .oicosec-img {
+  background: url('../images/images.204.jpeg') no-repeat;
+}
+
+#education .rangers-img {
+  background: url('../images/images.203.jpeg') no-repeat;
+}
+
+#experience .syfcleader-img {
   background: url('../images/images.002.jpeg') no-repeat;
 }
+
+#education .sstdemoteam-img {
+  background: url('../images/images.063.jpeg') no-repeat;
+}
+
 #experience .nyaa-img {
   background: url('../images/images.050.jpeg') no-repeat;
 }
-#education  .sstdemoteam-img {
-  background: url('../images/images.063.jpeg') no-repeat;
+
+#education .vicechair-img {
+  background: url('../images/images.001.jpeg') no-repeat;
 }
+
 /* academics */
-#experience  .cdcmerit-img {
+#education  .cdcmerit-img {
   background: url('../images/images.003.jpeg') no-repeat;
 }
-#education  .scholarship-img {
+#experience  .scholarship-img {
   background: url('../images/images.004.jpeg') no-repeat;
 }
 /* steam-related */
 
 
-#experience  .ycep-img {
-  background: url('../images/images.005.jpeg') no-repeat;
-}
-#education  .RSM-img {
-  background: url('../images/images.006.jpeg') no-repeat;
-}
-#experience  .cybersilver-img {
-  background: url('../images/images.007.jpeg') no-repeat;
-}
-#education  .SIC-img {
-  background: url('../images/images.008.jpeg') no-repeat;
-}
-#experience  .FEP-img {
-  background: url('../images/images.009.jpeg') no-repeat;
-}
-#education  .SAFMC-img {
-  background: url('../images/images.010.jpeg') no-repeat;
-}
-#experience  .AI-img {
+
+
+
+/* Education: AI for Industry | Literacy in AI 2023 */
+#education .AI-img {
   background: url('../images/images.011.jpeg') no-repeat;
 }
+#experience .capstone-img {
+  background: url('../images/images.040.jpeg') no-repeat;
+}
 
-#education  .swift-img {
-  background: url('../images/images.012.jpeg') no-repeat;
-}
-/* Swapped education and experience sections and incremented image numbers by 1 */
 
-#experience .SAP-img {
-  background: url('../images/images.013.jpeg') no-repeat;
+/* poeple choice award
+
+disntinctio waawrd */
+
+
+#education .techno-img {
+  background: url('../images/images.064.jpeg') no-repeat;
 }
-#education .planemail-img {
-  background: url('../images/images.014.jpeg') no-repeat;
+
+/* Experience: Big-D Camp 2024 */
+#experience .bigd-img {
+  background: url('../images/images.024.jpeg') no-repeat;
 }
-#experience .sstinc-img {
-  background: url('../images/images.015.jpeg') no-repeat;
-}
-#education .suscity-img {
-  background: url('../images/images.016.jpeg') no-repeat;
-}
-#experience .bestapp-img {
-  background: url('../images/images.017.jpeg') no-repeat;
-}
-#education .sanfrans-img {
-  background: url('../images/images.018.jpeg') no-repeat;
-}
-#experience .innofest-img {
-  background: url('../images/images.019.jpeg') no-repeat;
-}
-#education .splash-img {
-  background: url('../images/images.020.jpeg') no-repeat;
-}
-#experience .perse-img {
+
+/* Education: International Perse Coding Team Challenge (Merit in Round 2 Final, 2024) */
+#education .perse-img {
   background: url('../images/images.021.jpeg') no-repeat;
 }
-#education .sjpo-img {
+
+/* Experience: Singapore Junior Physics Olympiad (Individual and Team, 2023) */
+#experience .sjpo-img {
   background: url('../images/images.022.jpeg') no-repeat;
 }
 
-#experience .artc-img {
+/* Education: ARTC Camp 2023 */
+#education .artc-img {
   background: url('../images/images.023.jpeg') no-repeat;
 }
-#education .bigd-img {
-  background: url('../images/images.024.jpeg') no-repeat;
+
+/* Experience: Splash Awards 2023 */
+#experience .splash-img {
+  background: url('../images/images.020.jpeg') no-repeat;
 }
+
+/* Education: Flight Experience Programme 2023 */
+#education .FEP-img {
+  background: url('../images/images.009.jpeg') no-repeat;
+}
+
+/* Experience: SAFMC/SIAC 2022/2023 */
+#experience .SAFMC-img {
+  background: url('../images/images.010.jpeg') no-repeat;
+}
+
+#education .sstinc-img {
+  background: url('../images/images.015.jpeg') no-repeat;
+}
+
+/* Experience: Sus-city (currently still deployed) 2022 */
+#experience .suscity-img {
+  background: url('../images/images.016.jpeg') no-repeat;
+}
+
+/* Education: SST INC Best App of the Year 2022 */
+#education .bestapp-img {
+  background: url('../images/images.017.jpeg') no-repeat;
+}
+
+/* Experience: San Francisco Learning Journey */
+#experience .sanfrans-img {
+  background: url('../images/images.018.jpeg') no-repeat;
+}
+
+/* Education: Swift Accelerator Programme (SAP) 2022 */
+#education .SAP-img {
+  background: url('../images/images.013.jpeg') no-repeat;
+}
+
+/* Experience: App Development with Swift | Associate 2022 */
+#experience .swift-img {
+  background: url('../images/images.012.jpeg') no-repeat;
+}
+
+/* Education: PlaneMail (Currently on the App Store) 2022 */
+#education .planemail-img {
+  background: url('../images/images.014.jpeg') no-repeat;
+}
+
+/* Experience: Changemakers InnoFest 2022 */
+#experience .innofest-img {
+  background: url('../images/images.019.jpeg') no-repeat;
+}
+
+/* Education: SIC (School Programmes) */
+#education .SIC-img {
+  background: url('../images/images.008.jpeg') no-repeat;
+}
+
+/* Experience: Cyber Silver Explorer 2021 */
+#experience .cybersilver-img {
+  background: url('../images/images.007.jpeg') no-repeat;
+}
+
+/* Education: RSM Foundation International Math Contest 2021 */
+#education .RSM-img {
+  background: url('../images/images.006.jpeg') no-repeat;
+}
+
+/* Experience: Youth Cyber Exploration Programme 2021 */
+#experience .ycep-img {
+  background: url('../images/images.005.jpeg') no-repeat;
+}
+
+
+
+
+/* seperation */
+
+
 #experience .mousetrap-img {
   background: url('../images/images.025.jpeg') no-repeat;
 }
@@ -591,12 +664,6 @@ a:hover, a:active, a:focus {
 }
 #experience .ict-img {
   background: url('../images/images.039.jpeg') no-repeat;
-}
-#education .capstone-img {
-  background: url('../images/images.040.jpeg') no-repeat;
-}
-#experience .techno-img {
-  background: url('../images/images.064.jpeg') no-repeat;
 }
 
 /* Other */
@@ -664,6 +731,10 @@ a:hover, a:active, a:focus {
   background: url('../images/images.055.jpeg') no-repeat;
 }
 
+/* workexperience */
+#experience .work-img {
+  background: url('../images/images.201.jpeg') no-repeat;
+}
 
 /* work */
 #experience .media-heading {
