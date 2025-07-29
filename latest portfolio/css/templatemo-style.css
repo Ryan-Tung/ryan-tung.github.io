@@ -465,11 +465,11 @@ a:hover, a:active, a:focus {
   background: url('../images/images.202.jpeg') no-repeat;
 }
 
-#experience .oicosec-img {
+#experience .rangers-img {
   background: url('../images/images.204.jpeg') no-repeat;
 }
 
-#education .rangers-img {
+#education .oicosec-img {
   background: url('../images/images.203.jpeg') no-repeat;
 }
 
@@ -490,6 +490,9 @@ a:hover, a:active, a:focus {
 }
 
 /* academics */
+#experience  .idpacadexcel-img {
+  background: url('../images/images.205.jpeg') no-repeat;
+}
 #education  .cdcmerit-img {
   background: url('../images/images.003.jpeg') no-repeat;
 }
@@ -511,9 +514,12 @@ a:hover, a:active, a:focus {
 }
 
 
-/* poeple choice award
-
-disntinctio waawrd */
+#education .capstonedistinction-img {
+  background: url('../images/images.206.jpeg') no-repeat;
+}
+#experience .capstonepca-img {
+  background: url('../images/images.208.jpeg') no-repeat;
+}
 
 
 #education .techno-img {
