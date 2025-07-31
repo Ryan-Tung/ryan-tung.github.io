@@ -461,6 +461,10 @@ a:hover, a:active, a:focus {
 
 /* work */
 /* leader */
+#experience .nyaa-img {
+  background: url('../images/images.210.jpeg') no-repeat;
+}
+
 #education .erudites-img {
   background: url('../images/images.202.jpeg') no-repeat;
 }
@@ -620,6 +624,10 @@ a:hover, a:active, a:focus {
   background: url('../images/images.005.jpeg') no-repeat;
 }
 
+/* Education: RSM Foundation International Math Contest 2021 */
+#education .aycep-img {
+  background: url('../images/images.209.jpeg') no-repeat;
+}
 
 
 
